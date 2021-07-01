@@ -182,7 +182,7 @@ const queryMembers = async <
     },
     200,
     { leading: false, trailing: true },
-  );
+  )();
 };
 
 export const isMentionTrigger = (trigger: Trigger): trigger is '@' =>
