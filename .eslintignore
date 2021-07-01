@@ -1,0 +1,8 @@
+node_modules/
+build/
+dist/
+.expo/
+vendor/
+*.md
+src/components/docs/
+lib/
